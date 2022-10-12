@@ -1,0 +1,11 @@
+{
+  "name": "ppppay",
+  "version": "1.0.0",
+  "description": "\"基于vue项目开发的移动端支付密码款插件\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"1447625819@qq.com\"",
+  "license": "ISC"
+}
